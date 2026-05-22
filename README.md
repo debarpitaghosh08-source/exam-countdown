@@ -1,5 +1,12 @@
 # 🎯 Exam Countdown App
 
+
+https://github.com/user-attachments/assets/413b3d87-6399-45b2-9c26-f72ddfb8a83d
+<img width="1600" height="812" alt="image" src="https://github.com/user-attachments/assets/3489b347-a6b6-4d37-98fd-cce03bcc81d4" />
+<img width="1600" height="820" alt="image" src="https://github.com/user-attachments/assets/69df76c7-f0ad-4536-bf3c-4db4df930993" />
+
+
+
 A modern, full-stack exam countdown dashboard with immersive 3D interactive UI, built with React, Vite, and Three.js.
 
 ## ✨ Features
