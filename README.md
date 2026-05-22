@@ -141,29 +141,6 @@ Edit `src/utils/constants.js` to customize:
 - Global styles: `src/styles/globals.css`
 - Component-specific styles: Inline Tailwind classes
 
-## 🚀 Deployment to Vercel
-
-### One-Click Deploy
-1. Push your code to GitHub
-2. Visit [Vercel](https://vercel.com)
-3. Click "New Project"
-4. Select your GitHub repository
-5. Click "Deploy"
-
-### Manual Deployment
-```bash
-npm install -g vercel
-vercel
-```
-
-### Production Build
-```bash
-npm run build
-npm run preview
-```
-
-## 📁 Project Structure
-
 ```
 exam-countdown/
 ├── src/
@@ -199,33 +176,7 @@ exam-countdown/
 ### Environment Variables
 Create `.env.local` with optional Firebase configuration:
 
-```env
-VITE_FIREBASE_API_KEY=your_api_key
-VITE_FIREBASE_AUTH_DOMAIN=your_auth_domain
-# ... other Firebase variables
-```
 
-### Browser Support
-- Chrome (latest)
-- Firefox (latest)
-- Safari (latest)
-- Edge (latest)
-
-## 📝 Scripts
-
-```bash
-# Start development server
-npm run dev
-
-# Build for production
-npm run build
-
-# Preview production build locally
-npm run preview
-
-# Lint code (if configured)
-npm run lint
-```
 
 ## 🐛 Troubleshooting
 
