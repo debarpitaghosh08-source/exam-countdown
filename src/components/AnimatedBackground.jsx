@@ -68,10 +68,10 @@ const BackgroundScene = () => {
 
 export default function AnimatedBackground() {
   return (
-    <div className="absolute inset-0 -z-10">
+    <div className="absolute inset-0 -z-10 h-full">
       <Canvas
         camera={{ position: [0, 0, 30], fov: 75 }}
-        style={{ pointerEvents: 'none' }}
+        style={{ pointerEvents: 'none', width: '100%', height: '100%' }}
       >
         <BackgroundScene />
       </Canvas>

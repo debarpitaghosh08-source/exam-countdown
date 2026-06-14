@@ -16,7 +16,7 @@ function App() {
   const nextExam = useExamStore((state) => state.getNextExam());
 
   return (
-    <div className="relative w-full min-h-screen overflow-hidden bg-slate-950">
+    <div className="relative w-full min-h-screen overflow-x-hidden bg-slate-950">
       {/* Animated background with 3D elements */}
       <AnimatedBackground />
 

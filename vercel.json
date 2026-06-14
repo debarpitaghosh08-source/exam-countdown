@@ -1,8 +1,8 @@
-// Vercel configuration for optimal deployment
-module.exports = {
-  buildCommand: 'npm run build',
-  devCommand: 'npm run dev',
-  outputDirectory: 'dist',
-  framework: 'vite',
-  nodeVersion: '18.x',
-};
+{
+  "version": 3,
+  "framework": "vite",
+  "buildCommand": "npm run build",
+  "devCommand": "npm run dev",
+  "outputDirectory": "dist",
+  "nodeVersion": "18.x"
+}
