@@ -1,5 +1,15 @@
 # 🎯 Exam Countdown App
 
+
+
+https://github.com/user-attachments/assets/3f9f6e69-bc2b-439e-ab83-ffe253b57fef
+
+
+<img width="1600" height="812" alt="image" src="https://github.com/user-attachments/assets/3489b347-a6b6-4d37-98fd-cce03bcc81d4" />
+<img width="1600" height="820" alt="image" src="https://github.com/user-attachments/assets/69df76c7-f0ad-4536-bf3c-4db4df930993" />
+
+
+
 A modern, full-stack exam countdown dashboard with immersive 3D interactive UI, built with React, Vite, and Three.js.
 
 ## ✨ Features
@@ -131,29 +141,6 @@ Edit `src/utils/constants.js` to customize:
 - Global styles: `src/styles/globals.css`
 - Component-specific styles: Inline Tailwind classes
 
-## 🚀 Deployment to Vercel
-
-### One-Click Deploy
-1. Push your code to GitHub
-2. Visit [Vercel](https://vercel.com)
-3. Click "New Project"
-4. Select your GitHub repository
-5. Click "Deploy"
-
-### Manual Deployment
-```bash
-npm install -g vercel
-vercel
-```
-
-### Production Build
-```bash
-npm run build
-npm run preview
-```
-
-## 📁 Project Structure
-
 ```
 exam-countdown/
 ├── src/
@@ -189,33 +176,7 @@ exam-countdown/
 ### Environment Variables
 Create `.env.local` with optional Firebase configuration:
 
-```env
-VITE_FIREBASE_API_KEY=your_api_key
-VITE_FIREBASE_AUTH_DOMAIN=your_auth_domain
-# ... other Firebase variables
-```
 
-### Browser Support
-- Chrome (latest)
-- Firefox (latest)
-- Safari (latest)
-- Edge (latest)
-
-## 📝 Scripts
-
-```bash
-# Start development server
-npm run dev
-
-# Build for production
-npm run build
-
-# Preview production build locally
-npm run preview
-
-# Lint code (if configured)
-npm run lint
-```
 
 ## 🐛 Troubleshooting
 
