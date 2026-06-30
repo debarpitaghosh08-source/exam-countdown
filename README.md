@@ -72,7 +72,7 @@ A modern, full-stack exam countdown dashboard with immersive 3D interactive UI, 
 - **Drei** - Reusable Three.js components
 - **Zustand** - State management
 - **Lucide React** - Beautiful icons
-- **Vercel** - Production deployment
+- **Netlify** - Production deployment
 
 ## 📦 Installation
 
